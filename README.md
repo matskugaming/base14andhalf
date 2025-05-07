@@ -26,7 +26,7 @@ This character set was chosen for:
 - **Moderate density:** More efficient than Base10 or Base12, less dense than Base16
 - **Case-insensitive decoding:** While encoding produces uppercase letters, decoding accepts both cases
 - **Simple character set:** Uses only 15 familiar alphanumeric characters
-- **URL and filename safe:** No special characters (i dont count "-" (or ._) as special character)
+- **URL and filename safe:** No special characters (i dont count "-" as special character)
 
 ## Usage
 

@@ -40,6 +40,9 @@ echo $encoded;  //Outputs: "14-6-C-2026B711X860989-05"
 $decoded = base15_decode($encoded);
 echo $decoded;  //Outputs: "Hello World!"
 ```
+## Where to use
+- Super cool verification code
+- Annoy friends
 
 ## Requirements
 

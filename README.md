@@ -47,3 +47,5 @@ echo $decoded;  //Outputs: "Hello World!"
 ## Requirements
 
 The standard implementation requires the BC Math extension in PHP for handling "arbitrary-precision mathematics".
+
+_no chatgpt was harmed while making parts of this readme.md_

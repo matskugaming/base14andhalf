@@ -29,6 +29,7 @@ This character set was chosen for:
 ## Usage
 
 ```php
+require('base15.php');
 // Encoding
 $original = "Hello World!";
 $encoded = base15_encode($original);

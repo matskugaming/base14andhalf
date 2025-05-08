@@ -23,9 +23,7 @@ This character set was chosen for:
 ## Features
 
 - **Non-binary alignment:** Unlike Base16 or Base64, Base14½ doesn't align with binary bit boundaries, giving it unique encoding properties
-- **Moderate density:** More efficient than Base10 or Base12, less dense than Base16
-- **Case-insensitive decoding:** While encoding produces uppercase letters, decoding accepts both cases
-- **Simple character set:** Uses only 15 familiar alphanumeric characters
+- **Simple character set:** Uses only 15 familiar characters
 - **URL and filename safe:** No special characters (i dont count "-" as special character)
 
 ## Usage
